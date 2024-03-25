@@ -2,10 +2,10 @@
 
 ### Description
 
-Same as the last assignment but you need to use jwts for authentication.
-We have introduced the signgin endpoints for both users and admins.
-For this one, in every authenticated requests, you need to send the jwt in headers (Authorization : "Bearer <actual token>").
-You need to use mongodb to store all the data persistently.
+
+Signgin endpoints for both users and admins.
+In every authenticated requests, I send the jwt in headers (Authorization : "Bearer <actual token>").
+Used mongodb to store all the data persistently.
 
 ## Routes
 
